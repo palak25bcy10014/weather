@@ -48,7 +48,7 @@ def get_weather():
         )
 
     except:
-        result.config(text="City not found or network error")
+        result.config(text="City not found or API error")
 
 
 root = tk.Tk()
