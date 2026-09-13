@@ -88,9 +88,8 @@ City not found or API error
 * ├── weather_app.py
 * ├── README.md
 * ├── statement.md
-* ├── requirements.txt
-* ├── screenshots/
-* │   └── weather_app.png
+* ├── screenrecording
+* │   └── weather_app.mp4
 * └── WeatherApp_Report.pdf
     
 ## 📌Screenshots
