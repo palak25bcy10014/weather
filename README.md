@@ -71,7 +71,7 @@ City not found or API error
 * Click "Get Weather"
 * Expected Output: The application should display an error message and should not crash 
 
-Please enter a city name
+City not found or API error
 
 ### 4.  *Offline / Network Error Test:*
 * Disconnect your computer from the internet.
@@ -85,7 +85,7 @@ City not found or API error
 ## 📌Project structure
 * WeatherApp/
 * │
-* ├── weather_app.py
+* ├── weather.py
 * ├── README.md
 * ├── statement.md
 * ├── screenrecording
