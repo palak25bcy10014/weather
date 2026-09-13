@@ -1,7 +1,7 @@
 import tkinter as tk
 import requests
 
-API_KEY = "AIzaSyDW7VcI3AOgLFpjSP1XjYPfsHgjhzeMf7E"
+API_KEY = "AIzaSyDVVSn-VPh8H2zdSlTPAb0BYkpNoBwR6sA"
 
 def get_weather():
     city = city_entry.get().strip()
