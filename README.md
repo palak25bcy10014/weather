@@ -4,7 +4,7 @@
 Weather App is a simple Python desktop application that allows
 users to search for current weather information by entering a city name.
 The application uses Tkinter for the graphical user interface
-and Google Weather API for weather information.
+and Open-Meteo Weather API for weather information.
 
 
 ## 📌Features
@@ -17,11 +17,11 @@ and Google Weather API for weather information.
 
 
 ## 📌Technologies/Tools Used
- * Programming Language: * Python 3.7
- * GUI Framework: * Tkinter
- * HTTP Library: * Requests (for API calls)
- * Data Format: * JSON
- * API Service: * Google Weather API
+ * Programming Language:  Python 3.7
+ * GUI Framework:  Tkinter
+ * HTTP Library:  Requests (for API calls)
+ * Data Format:  JSON
+ * API Service: Open-Meteo Weather API
 
 ## 📌Steps to Install & Run the Project
 ### 1.  *requirement:*
